@@ -2,7 +2,7 @@
 <!-- Nav -->
 <nav id="nav">
     <ul>
-        <li class="current"><a href="index.html">Home</a></li>
+        <li class="current"><a href="/">Home</a></li>
         <li>
             <a href="#" class="dropdown">Services</a>
             <ul>
@@ -17,7 +17,6 @@
                 </li>
             </ul>
         </li>
-        <li><a href="generic.html">Generic</a></li>
-        <li><a href="elements.html">Elements</a></li>
+        <li><a href="/contact">Contact</a></li>
     </ul>
 </nav>
