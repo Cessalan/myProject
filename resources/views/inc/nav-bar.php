@@ -4,18 +4,15 @@
     <ul>
         <li class="current"><a href="index.html">Home</a></li>
         <li>
-            <a href="#" class="dropdown">Dropdown</a>
+            <a href="#" class="dropdown">Services</a>
             <ul>
-                <li><a href="#">Option One</a></li>
-                <li><a href="#">Option Two</a></li>
-                <li><a href="#">Option Three</a></li>
+                <li><a href="#">Horaire d'ouverture</a></li>
+                <li><a href="#">Membres</a></li>
                 <li>
-                    <a href="#">Submenu</a>
+                    <a href="#">Rendez-vous</a>
                     <ul>
-                        <li><a href="#">Option One</a></li>
-                        <li><a href="#">Option Two</a></li>
-                        <li><a href="#">Option Three</a></li>
-                        <li><a href="#">Option Four</a></li>
+                        <li><a href="#">Prendre rendez-vous</a></li>
+                        <li><a href="#">Annuler</a></li>
                     </ul>
                 </li>
             </ul>
