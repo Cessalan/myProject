@@ -1,35 +1,26 @@
 
-<nav class="navbar navbar-inverse">
-    <div class="container-fluid">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="#"><strong>XYZ</strong></a>
-        </div>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <ul class="nav navbar-nav">
-
-                <li><a href="indnex.php">Home Page</a></li>
-                <li><a href="aboutus.php">About us</a></li>
-                <li><a href="contactus.php">Contact Us</a></li>
-
-
-
-                <ul class="dropdown-menu">
-                    <li><a href="index.php">Home Page</a></li>
-                    <li><a href="aboutus.php">About Us</a></li>
-                    <li><a href="contactus.php">Contact Us</a></li>
-                    <li><a href="seestore.php">Shop</a></li>
-                    <li><a href="onSale.php">On Sale This Week</a></li>n
-                    <li><a href="loginForm.php">Log in</a></li>
-                </ul>
-
-
+<!-- Nav -->
+<nav id="nav">
+    <ul>
+        <li class="current"><a href="index.html">Home</a></li>
+        <li>
+            <a href="#" class="dropdown">Dropdown</a>
+            <ul>
+                <li><a href="#">Option One</a></li>
+                <li><a href="#">Option Two</a></li>
+                <li><a href="#">Option Three</a></li>
+                <li>
+                    <a href="#">Submenu</a>
+                    <ul>
+                        <li><a href="#">Option One</a></li>
+                        <li><a href="#">Option Two</a></li>
+                        <li><a href="#">Option Three</a></li>
+                        <li><a href="#">Option Four</a></li>
+                    </ul>
+                </li>
             </ul>
-
-        </div>
-    </div>
+        </li>
+        <li><a href="generic.html">Generic</a></li>
+        <li><a href="elements.html">Elements</a></li>
+    </ul>
 </nav>
